@@ -1,25 +1,25 @@
 # SQL-Challenge
 
 
-# Background
+## Background
 
 It’s been two weeks since you were hired as a new data engineer at Pewlett Hackard (a fictional company). Your first major task is to do a research project about people whom the company employed during the 1980s and 1990s. All that remains of the employee database from that period are six CSV files.
 
 
 
-# Instructions
+## Instructions
 
 This Challenge is divided into three parts: data modeling, data engineering, and data analysis.
 
 
 
-## 1. Data Modeling
+### 1. Data Modeling
 
 Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables. To create the sketch, feel free to use a tool like QuickDBDLinks to an external site..
 
 
 
-## 2. Data Engineering
+### 2. Data Engineering
    
 2.1 - Use the provided information to create a table schema for each of the six CSV files. 
 
@@ -27,7 +27,7 @@ Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tab
 
 
 
-## 3. Data Analysis
+### 3. Data Analysis
    
 3.1 - List the employee number, last name, first name, sex, and salary of each employee.
 
@@ -47,7 +47,7 @@ Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tab
 
 
 
-# Submission
+## Submission
 
 Before submitting your Challenge assignment, make sure that you’ve done the following:
 
