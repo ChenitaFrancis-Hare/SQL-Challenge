@@ -51,17 +51,17 @@ Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tab
 
 Before submitting your Challenge assignment, make sure that you’ve done the following:
 
-A. Create an image file of your ERD.
+> Create an image file of your ERD.
 
-B. Create a .sql file of your table schemata.
+> Create a .sql file of your table schemata.
 
-C. Create a .sql file of your queries.
+> Create a .sql file of your queries.
 
-D. (Optional) Create a Jupyter notebook of the bonus analysis. (Note: there will be no extra points for completing this.)
+> (Optional) Create a Jupyter notebook of the bonus analysis. (Note: there will be no extra points for completing this.)
 
-E. Ensure that your repository has regular commits and a thorough README.md file
+> Ensure that your repository has regular commits and a thorough README.md file
 
-G. To submit your Challenge assignment, click Submit, and then provide the URL of your GitHub repository for grading.
+> To submit your Challenge assignment, click Submit, and then provide the URL of your GitHub repository for grading.
 
 
 
