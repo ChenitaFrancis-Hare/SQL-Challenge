@@ -6,9 +6,11 @@
 It’s been two weeks since you were hired as a new data engineer at Pewlett Hackard (a fictional company). Your first major task is to do a research project about people whom the company employed during the 1980s and 1990s. All that remains of the employee database from that period are six CSV files.
 
 
+
 # Instructions
 
 This Challenge is divided into three parts: data modeling, data engineering, and data analysis.
+
 
 
 ## 1. Data Modeling
@@ -16,11 +18,13 @@ This Challenge is divided into three parts: data modeling, data engineering, and
 Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables. To create the sketch, feel free to use a tool like QuickDBDLinks to an external site..
 
 
+
 ## 2. Data Engineering
    
 2.1 - Use the provided information to create a table schema for each of the six CSV files. 
 
 2.2 - Import each CSV file into its corresponding SQL table.
+
 
 
 ## 3. Data Analysis
@@ -42,6 +46,7 @@ Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tab
 3.8 - List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
 
 
+
 # Submission
 
 Before submitting your Challenge assignment, make sure that you’ve done the following:
@@ -57,6 +62,8 @@ D. (Optional) Create a Jupyter notebook of the bonus analysis. (Note: there will
 E. Ensure that your repository has regular commits and a thorough README.md file
 
 G. To submit your Challenge assignment, click Submit, and then provide the URL of your GitHub repository for grading.
+
+
 
 
 
